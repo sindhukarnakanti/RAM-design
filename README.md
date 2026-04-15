@@ -27,7 +27,7 @@ A synchronous RAM operates based on a clock signal.
 - All operations occur at the rising edge of the clock
 - Ensures stable and controlled data transfer
 - Used in real hardware systems
-- 
+  
 # RAM Design Details
 
 Specifications:
