@@ -152,4 +152,9 @@ Time   clk   we   addr   din   dout
 - Git & GitHub
 
 
+ <img width="2674" height="1586" alt="Image" src="https://github.com/user-attachments/assets/763f89bc-f60b-4fb6-8568-88c3ab61bee7" />
+
+
+
+
 
