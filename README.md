@@ -153,6 +153,10 @@ Time   clk   we   addr   din   dout
 
 
  <img width="2674" height="1586" alt="Image" src="https://github.com/user-attachments/assets/763f89bc-f60b-4fb6-8568-88c3ab61bee7" />
+ 
+ <img width="2442" height="1551" alt="Image" src="https://github.com/user-attachments/assets/6434502d-9fc3-4582-af75-f458650d7dc3" />
+
+ 
 
 
 
